@@ -1,0 +1,24 @@
+{
+  "name": "reference-app-package",
+  "description": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dockerlint": "0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Accenture/adop-cartridge-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Accenture/adop-cartridge-docker/issues"
+  },
+  "homepage": "https://github.com/Accenture/adop-cartridge-docker"
+}
